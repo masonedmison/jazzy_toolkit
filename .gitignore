@@ -1,0 +1,4 @@
+aud_output/
+pretrained_models/
+venv/
+__pycache__/

@@ -1,4 +1,6 @@
-### Explorations on computing similarity between two jazz musicians 
+### Explorations on creating a jazz toolkit where desired features are:
+- split track into stems
+- compare similarity (or influence) between two musicians 
 
 
 ### Built with
